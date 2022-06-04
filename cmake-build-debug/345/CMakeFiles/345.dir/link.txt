@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/345.dir/345.cpp.o -o 345 

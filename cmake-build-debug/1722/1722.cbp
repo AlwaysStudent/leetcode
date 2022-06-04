@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="1722"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\1079\;CMake Files\1351\;CMake Files\1486\;CMake Files\1619\;CMake Files\1704\;CMake Files\1722\;CMake Files\1776\;CMake Files\1936\;CMake Files\2150\;CMake Files\218\;CMake Files\273\;CMake Files\345\;CMake Files\68\;CMake Files\799\;CMake Files\868\;CMake Files\890\;CMake Files\94\;CMake Files\offer_22\;CMake Files\offer_4\;CMake Files\offer_63\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1722">
+				<Option output="/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/1722" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/../../../../include/c++/12.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/../../../../include/c++/12.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/../../../../include/c++/12.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 1722"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1722/fast">
+				<Option output="/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/1722" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/../../../../include/c++/12.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/../../../../include/c++/12.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/../../../../include/c++/12.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 1722/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/whetherstudent/桌面/c++/leetcode/cmake-build-debug/1722/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/1722/1722.cpp">
+			<Option target="1722"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/1079/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1079\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/1351/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1351\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/1486/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1486\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/1619/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1619\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/1704/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1704\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/1722/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1722\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/1776/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1776\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/1936/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1936\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/2150/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2150\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/218/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\218\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/273/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\273\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/345/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\345\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/68/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\68\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/799/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\799\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/868/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\868\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/890/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\890\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/94/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\94\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/offer_22/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\offer_22\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/offer_4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\offer_4\"/>
+		</Unit>
+		<Unit filename="/home/whetherstudent/桌面/c++/leetcode/offer_63/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\offer_63\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

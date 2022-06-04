@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/218.dir/218.cpp.o -o 218 
