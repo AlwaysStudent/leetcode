@@ -34,4 +34,6 @@
 .idea
 .git
 cmake-build-debug
+.vscode
+build
 
