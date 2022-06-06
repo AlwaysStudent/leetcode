@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/1936.dir/1936.cpp.o -o 1936 
