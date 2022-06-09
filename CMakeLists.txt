@@ -21,6 +21,8 @@ add_subdirectory(1079)
 add_subdirectory(2150)
 add_subdirectory(345)
 add_subdirectory(1619)
+add_subdirectory(497)
+add_subdirectory(1314)
 
 # 剑指offer
 add_subdirectory(offer_22)
